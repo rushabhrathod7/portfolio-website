@@ -10,7 +10,7 @@ export const siteConfig = {
   responseTime: "Usually within 24 hours",
   copyright: "© 2025 All Rights Reserved",
   builtWith: "Designed & Built with Next.js",
-  resumePath: "/resume.pdf",
+  resumePath: "/Rushabh-Rathod-Resume.pdf",
 
   social: {
     github: "https://github.com/rushabhrathod7",
