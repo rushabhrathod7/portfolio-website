@@ -22,12 +22,12 @@ const bebasNeue = Bebas_Neue({
 });
 
 export const metadata: Metadata = {
-  title: "Rhushabh Rathod — Full-Stack Developer",
+  title: "Rushabh Rathod — Full-Stack Developer",
   description:
     "Full-stack developer specializing in MERN, Next.js, and scalable web systems. I build clean, performant applications with thoughtful UX.",
-  applicationName: "Rhushabh Rathod Portfolio",
-  authors: [{ name: "Rhushabh Rathod" }],
-  creator: "Rhushabh Rathod",
+  applicationName: "Rushabh Rathod Portfolio",
+  authors: [{ name: "Rushabh Rathod" }],
+  creator: "Rushabh Rathod",
   generator: "Next.js",
 
   icons: {
@@ -51,17 +51,17 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://your-domain.vercel.app"),
 
   openGraph: {
-    title: "Rhushabh Rathod — Full-Stack Developer",
+    title: "Rushabh Rathod — Full-Stack Developer",
     description:
       "Building scalable web applications using MERN, Next.js, and modern backend systems.",
     url: "https://your-domain.vercel.app",
-    siteName: "Rhushabh Rathod Portfolio",
+    siteName: "Rushabh Rathod Portfolio",
     images: [
       {
         url: "/og-image.png",
         width: 1200,
         height: 630,
-        alt: "Rhushabh Rathod Portfolio",
+        alt: "Rushabh Rathod Portfolio",
       },
     ],
     locale: "en_IN",
@@ -70,7 +70,7 @@ export const metadata: Metadata = {
 
   twitter: {
     card: "summary_large_image",
-    title: "Rhushabh Rathod — Full-Stack Developer",
+    title: "Rushabh Rathod — Full-Stack Developer",
     description:
       "MERN & Next.js developer building fast, scalable, production-ready applications.",
     images: ["/og-image.png"],
