@@ -48,13 +48,13 @@ export const metadata: Metadata = {
     apple: "/apple-icon.png",
   },
 
-  metadataBase: new URL("https://your-domain.vercel.app"),
+  metadataBase: new URL("https://rushabhrathod.vercel.app/"),
 
   openGraph: {
     title: "Rushabh Rathod — Full-Stack Developer",
     description:
       "Building scalable web applications using MERN, Next.js, and modern backend systems.",
-    url: "https://your-domain.vercel.app",
+    url: "https://rushabhrathod.vercel.app/",
     siteName: "Rushabh Rathod Portfolio",
     images: [
       {
